@@ -14,7 +14,7 @@
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
 
 ## Join ZeroRabiesAPP team!
-<a href="mailto:abelsare@auburn.edu">Click to send an email.</a>
+<a href="mailto:abelsare@auburn.edu" title="Click to send an email">Contact us.</a>
 
 <br>
 
