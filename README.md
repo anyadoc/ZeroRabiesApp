@@ -16,7 +16,7 @@
 ## Join ZeroRabiesAPP team!
 <a href="mailto:abelsare@auburn.edu">Email</a>
 
-<img src="https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/c01d0782-1a11-499d-8751-bf8cbfc6d3c6)"  width="430" height="130">
+<img src="https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/c01d0782-1a11-499d-8751-bf8cbfc6d3c6)"  width="450" height="130">
 
 ![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/c01d0782-1a11-499d-8751-bf8cbfc6d3c6)
 
