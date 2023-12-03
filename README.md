@@ -12,3 +12,6 @@
 ## Crowdsourcing Post-exposure prophylaxis products availability database
 
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
+
+## Join ZeroRabiesAPP team!
+<a href="mailto:abelsare@auburn.edu">Send email</a>
