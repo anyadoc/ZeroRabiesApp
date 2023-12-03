@@ -14,8 +14,6 @@
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
 
 ## Join ZeroRabiesAPP team!
-<a href="mailto:abelsare@auburn.edu">Send email</a>
+<a href="mailto:abelsare@auburn.edu">Email</a>
 
-![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/c01d0782-1a11-499d-8751-bf8cbfc6d3c6)
-
-![aucvmlogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/76c3357a-e32d-46d4-afbd-5b3fed57b553)
+![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/c01d0782-1a11-499d-8751-bf8cbfc6d3c6) ![aucvmlogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/76c3357a-e32d-46d4-afbd-5b3fed57b553)
