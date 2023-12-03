@@ -3,3 +3,4 @@
  
  <a href="https://anyadoc.shinyapps.io/ZeroRabiesNigeria/" target="_blank">ZeroRabiesAPP-NIGERIA</a>
  
+<button onclick="document.location='default.asp'">HTML Tutorial</button>
