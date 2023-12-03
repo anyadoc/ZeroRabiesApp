@@ -16,6 +16,6 @@
 ## Join ZeroRabiesAPP team!
 <a href="mailto:abelsare@auburn.edu">Click to send an email.</a>
 
-## 
+<br>
 
 ![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/29bdc09b-5198-4866-a1ff-7a215705392e)
