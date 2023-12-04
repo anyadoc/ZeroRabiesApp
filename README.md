@@ -1,6 +1,6 @@
 # ZeroRabiesAPP
 
-## <mark> Ensuring equitable access to lifesaving postbite treatment
+## <mark style="background-color: lightblue"> Ensuring equitable access to lifesaving postbite treatment
 
 ### The app is an interactive point-of care tool for treating dog bite cases and provides easy access to the latest guidelines developed by the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC).
 ### User can enter the exposure date to generate a personalized postbite treatment schedule.
