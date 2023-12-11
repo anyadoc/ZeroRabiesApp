@@ -1,4 +1,4 @@
-# ZeroRabiesAPP
+# ZeroRabiesApp
 
 ## <mark style="background-color: lightblue"> Ensuring equitable access to lifesaving postbite treatment
 
