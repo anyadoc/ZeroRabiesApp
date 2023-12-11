@@ -6,7 +6,7 @@
 ### User can enter the exposure date to generate a personalized postbite treatment schedule.
 ### The app also provides free access to the rabies biologics availability database.
 
- h3(<a href="https://anyadoc.shinyapps.io/ZeroRabiesINDIA/" target="_blank">ZeroRabiesAPP-INDIA</a>)
+ ## <a href="https://anyadoc.shinyapps.io/ZeroRabiesINDIA/" target="_blank">ZeroRabiesAPP-INDIA</a>
  
  <a href="https://anyadoc.shinyapps.io/ZeroRabiesNigeria/" target="_blank">ZeroRabiesAPP-NIGERIA</a>
  
