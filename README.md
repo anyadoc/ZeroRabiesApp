@@ -10,12 +10,13 @@
  
  <a href="https://anyadoc.shinyapps.io/ZeroRabiesNigeria/" target="_blank">ZeroRabiesAPP-NIGERIA</a>
  
-<button onclick="document.location='default.asp'">[ZeroRabiesApp.pdf](https://github.com/anyadoc/ZeroRabiesAPP/files/13540222/ZeroRabiesApp.pdf)</button>
-
-
 ## Contribute to the rabies biologics availability database
 
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
+
+## About this work
+
+<button onclick="document.location='default.asp'">[ZeroRabiesApp.pdf](https://github.com/anyadoc/ZeroRabiesAPP/files/13540222/ZeroRabiesApp.pdf)</button>
 
 ## Join ZeroRabiesAPP team!
 <a href="mailto:abelsare@auburn.edu" title="Click to send an email">Contact us.</a>
