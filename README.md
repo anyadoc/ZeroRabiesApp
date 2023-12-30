@@ -18,7 +18,6 @@
 
 <button onclick="document.location='default.asp'">[ZeroRabiesApp.pdf](https://github.com/anyadoc/ZeroRabiesApp/files/13540222/ZeroRabiesApp.pdf)</button>
 
-https://github.com/anyadoc/ZeroRabiesAPP/files/13540222/ZeroRabiesApp.pdf
 ## Join ZeroRabiesAPP team!
 <a href="mailto:abelsare@auburn.edu" title="Click to send an email">Contact us.</a>
 
