@@ -37,7 +37,4 @@
 
 <br>
 
-![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/29bdc09b-5198-4866-a1ff-7a215705392e)
-
-![aucvmlogo](https://github.com/user-attachments/assets/3e01241f-123d-4879-92b4-39c865beb3f5)
 <img src="https://user-images.githubusercontent.com/15696318/228439926-dfe923fb-66f1-4c67-a2f1-b89ee717c7fa.png" width="270" height="70"> <img src="https://user-images.githubusercontent.com/15696318/228443138-fedddc50-c573-493d-86d5-7ea273fd4e35.png" width="270" height="70">
