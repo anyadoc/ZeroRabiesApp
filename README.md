@@ -39,3 +39,4 @@
 
 ![cfwelogo](https://github.com/anyadoc/ZeroRabiesAPP/assets/15696318/29bdc09b-5198-4866-a1ff-7a215705392e)
 
+![aucvmlogo](https://github.com/user-attachments/assets/3e01241f-123d-4879-92b4-39c865beb3f5)
