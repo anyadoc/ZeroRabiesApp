@@ -37,6 +37,4 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/15696318/228439926-dfe923fb-66f1-4c67-a2f1-b89ee717c7fa.png" width="270" height="70"> 
-<img src="https://github.com/user-attachments/assets/398823d8-f332-4380-9617-1516fa6e3072.png" width="270" height="70">
-![aucvmlogo](https://github.com/user-attachments/assets/398823d8-f332-4380-9617-1516fa6e3072)
+![cfwelogo](https://github.com/user-attachments/assets/e2fb4338-8c12-4b57-b84c-9752cb930982)
