@@ -9,6 +9,8 @@
  <a href="https://anyadoc.shinyapps.io/ZeroRabiesINDIA/" target="_blank">ZeroRabiesAPP-INDIA</a>
  
  <a href="https://anyadoc.shinyapps.io/ZeroRabiesNigeria/" target="_blank">ZeroRabiesAPP-NIGERIA</a>
+
+ <a href="https://anyadoc.shinyapps.io/ZeroRabiesPakistan/" target="_blank">ZeroRabiesAPP-PAKISTAN</a>
  
 ## Contribute to the rabies biologics availability database
 
