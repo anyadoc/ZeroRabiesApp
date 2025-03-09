@@ -16,6 +16,7 @@
 
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
 
+## Read about the ZeroRabiesAPP project here: [Public Health Challenges - 2025 - Belsare - Enhancing Human Post‐Exposure Rabies Prophylaxis in Canine Rabies Endemic (1).pdf](https://github.com/user-attachments/files/19147319/Public.Health.Challenges.-.2025.-.Belsare.-.Enhancing.Human.Post.Exposure.Rabies.Prophylaxis.in.Canine.Rabies.Endemic.1.pdf)
 ---
 
 ![RabiesVaccineList1](https://github.com/user-attachments/assets/002c735f-9e5d-498c-b851-f606504cd7a5)
@@ -42,3 +43,4 @@
 ![cfwelogo](https://github.com/user-attachments/assets/e2fb4338-8c12-4b57-b84c-9752cb930982)
 
 ![aucvmlogo](https://github.com/user-attachments/assets/cbdc7f10-d164-4dc5-a589-fd8919799180)
+
