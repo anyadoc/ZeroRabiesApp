@@ -40,6 +40,8 @@
 
 <br>
 
+Check here for Rabies status: Assessment by Country: <a href="https://www.cdc.gov/rabies/country-risk/index.html" target="_blank">CDC Rabies Status</a>
+
 ![cfwelogo](https://github.com/user-attachments/assets/e2fb4338-8c12-4b57-b84c-9752cb930982)
 
 ![aucvmlogo](https://github.com/user-attachments/assets/cbdc7f10-d164-4dc5-a589-fd8919799180)
