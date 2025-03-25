@@ -17,6 +17,9 @@
 <a href="https://anyadoc.shinyapps.io/ZeroRabiesPEP/" target="_blank">PEP database form</a>
 
 ## Read about the ZeroRabiesAPP project here: [Belsare et al., 2025 Public Health Challenges.pdf](https://github.com/user-attachments/files/19147324/Belsare.et.al.2025.Public.Health.Challenges.pdf)
+
+Check here for Rabies status: Assessment by Country: <a href="https://www.cdc.gov/rabies/country-risk/index.html" target="_blank">CDC Rabies Status</a>
+
 ---
 
 ![RabiesVaccineList1](https://github.com/user-attachments/assets/002c735f-9e5d-498c-b851-f606504cd7a5)
@@ -40,7 +43,7 @@
 
 <br>
 
-Check here for Rabies status: Assessment by Country: <a href="https://www.cdc.gov/rabies/country-risk/index.html" target="_blank">CDC Rabies Status</a>
+
 
 ![cfwelogo](https://github.com/user-attachments/assets/e2fb4338-8c12-4b57-b84c-9752cb930982)
 
